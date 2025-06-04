@@ -1,2 +1,2 @@
 a=21
-print(type(a))
+print(type(a))    ## <class 'int'>

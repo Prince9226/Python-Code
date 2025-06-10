@@ -1,0 +1,7 @@
+a=[]
+print(a)
+
+## Output
+'''
+empty list: []
+'''
